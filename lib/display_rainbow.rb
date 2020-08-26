@@ -3,3 +3,7 @@ orange=O
 yellow=Y
 green=G
 blue=B
+indigo=I
+violet
+
+  
